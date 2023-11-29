@@ -126,7 +126,8 @@ JK Flip flop:
 
 D Flip flop:
 
-![Exp5 dfp code](https://github.com/nivethasuresh1408/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152055927/5a19ff89-d2f0-4b17-b5e5-a453e3d9c550
+![Exp5 dfp code](https://github.com/nivethasuresh1408/Experiment--05-Implementation-of-flipflops-using-verilog/assets/152055927/e456de87-e1de-4c46-ad0d-67e52e472320)
+
 
 T Flip flop:
 
