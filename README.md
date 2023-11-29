@@ -179,3 +179,4 @@ T Flip flop:
 
 
 ### RESULTS 
+Implementation of flipflops using verilog successfully completed.
